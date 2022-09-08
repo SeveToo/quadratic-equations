@@ -1,0 +1,149 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css" />
+  </head>
+
+  <body>
+    <div class="app">
+      <h2>Obliczanie Równania Kwadratowego</h2>
+      <br />
+      <div class="row">
+        y =
+        <label class="label" data-label="a">
+          <input value="1" type="text" class="short-input" id="number__a" />
+        </label>
+        x<sup>2</sup> +
+        <label class="label" data-label="b">
+          <input
+            value="-1"
+            data-label="b"
+            class="short-input"
+            type="text"
+            id="number__b"
+          />
+        </label>
+        x +
+        <label class="label" data-label="c">
+          <input
+            value="-2"
+            data-label="c"
+            class="short-input"
+            type="text"
+            id="number__c"
+          />
+        </label>
+        <br />
+      </div>
+      <button type="button" id="btn">Oblicz</button><br />
+      <div id="score"></div>
+      <div class="solution">
+        <div class="solution__item" data-label="delta">
+          <div class="solution__formula">
+            <span class="delta">&Delta;</span> = <span class="b">b</span>
+            <sup>2</sup> - 4 * <span class="a">a</span> *
+            <span class="c">c</span>
+          </div>
+          <div class="solution__values">
+            <span class="delta">&Delta;</span> =
+            <span class="b b_score">-1</span><sup>2</sup> - 4 *
+            <span class="a a_score">1</span> * <span class="c c_score">-2</span>
+          </div>
+          <div class="solution__score">
+            <span class="delta">&Delta;</span> =
+            <span class="delta_score"></span>
+            &nbsp;&nbsp;&Sqrt;<span class="delta">&Delta;</span> =
+            <span class="sqrt_DeltaScore"></span>
+          </div>
+        </div>
+
+        <span class="solution__value" id="solution__x"></span>
+
+        <div class="solution__item" data-label="x₀">
+          <div class="solution__formula">
+            x₀ = -<span class="b">b</span> / 2 *
+            <span class="a">a</span>
+          </div>
+          <div class="solution__values">
+            x₀ = -<span class="b b_score">b</span> / 2 *
+            <span class="a a_score">a</span>
+          </div>
+          <div class="solution__score">
+            x₀ = <span class="xzero_score"></span>
+          </div>
+        </div>
+
+        <div class="solution__item" data-label="x₁">
+          <div class="solution__formula">
+            x₁ = -<span class="b">b</span> + &Sqrt;<span class="delta"
+              >&Delta;</span
+            >
+            / 2 *
+            <span class="a">a</span>
+          </div>
+          <div class="solution__values">
+            x₁ = -<span class="b b_score">b</span> + &Sqrt;<span
+              class="delta delta_score"
+              >&Delta;</span
+            >
+            / 2 * <span class="a a_score">a</span>
+          </div>
+          <div class="solution__score">
+            x₁ = <span class="xone_score"></span>
+          </div>
+        </div>
+
+        <div class="solution__item" data-label="x₂">
+          <div class="solution__formula">
+            x₂ = -<span class="b">b</span> - &Sqrt;<span class="delta"
+              >&Delta;</span
+            >
+            / 2 *
+            <span class="a">a</span>
+          </div>
+
+          <div class="solution__values">
+            x₂ = -<span class="b b_score">b</span> - &Sqrt;<span
+              class="delta delta_score"
+              >&Delta;</span
+            >
+            / 2 *<span class="a a_score">a</span>
+          </div>
+          <div class="solution__score">
+            x₂ = <span class="xtwo_score"></span>
+          </div>
+        </div>
+        <div class="solution__item" data-label="p">
+          <div class="solution__formula">
+            p = -<span class="b">b</span> / 2 *
+            <span class="a">a</span>
+          </div>
+
+          <div class="solution__values">
+            p = -<span class="b b_score">b</span> / 2 *
+            <span class="a a_score">a</span>
+          </div>
+          <div class="solution__score">p = <span class="p_score"></span></div>
+        </div>
+        <div class="solution__item" data-label="q">
+          <div class="solution__formula">
+            q = -<span class="delta">&Delta;</span> / 4 *
+            <span class="a">a</span>
+          </div>
+
+          <div class="solution__values">
+            q = -<span class="delta delta_score">&Delta;</span> / 4 *
+            <span class="a a_score">a</span>
+          </div>
+          <div class="solution__score">q = <span class="q_score"></span></div>
+        </div>
+      </div>
+    </div>
+
+    <script type="text/javascript" src="script.js"></script>
+  </body>
+</html>
