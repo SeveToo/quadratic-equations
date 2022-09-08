@@ -1,6 +1,7 @@
 <div align="center" id="top"> 
 <h1 align="center">Obliczanie równania kwadratowego</h1>
-    [<img src="./preview.png" alt="Tabliczka Mnożenia Do Nauki" />](https://sevetoo.github.io/obliczanie-r-wnania-kwadratowego/)
+    [![Foo](./preview.png)]([http://google.com.au/](https://sevetoo.github.io/obliczanie-r-wnania-kwadratowego/))
+    [![Foo](http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
 &#xa0;
 
   <!-- <a href="https://tabliczkamnożeniadonauki.netlify.app">Demo</a> -->
