@@ -1,11 +1,10 @@
 <div align="center" id="top"> 
 <h1 align="center">Obliczanie równania kwadratowego</h1>
-    [(./preview.png)]([http://google.com.au/](https://sevetoo.github.io/obliczanie-r-wnania-kwadratowego/))
-    [(http://www.google.com.au/images/nav_logo7.png)](http://google.com.au/)
-    [<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
+  <img src="./preview.png" alt="Tabliczka Mnożenia Do Nauki" />
+
 &#xa0;
 
-   <a href="https://sevetoo.github.io/obliczanie-r-wnania-kwadratowego/">Demo</a> 
+  <a target="_blank" href="https://sevetoo.github.io/obliczanie-r-wnania-kwadratowego/">Demo</a>
 </div>
 
 <p align="center">
@@ -35,7 +34,6 @@
 A simple app to solve a quadratic equation
 
 <!-- ## :sparkles: Features
-
 :heavy_check_mark: You can set interval between rounds \
 :heavy_check_mark: You see how many correct and wrong answers you get\ -->
 
