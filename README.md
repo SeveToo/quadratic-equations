@@ -1,10 +1,13 @@
 <div align="center" id="top"> 
 <h1 align="center">Obliczanie równania kwadratowego</h1>
+  <a target="_blank" href="https://sevetoo.github.io/obliczanie-r-wnania-kwadratowego/">
   <img src="./preview.png" alt="Tabliczka Mnożenia Do Nauki" />
+  </a>
 
 &#xa0;
 
-  <a target="_blank" href="https://sevetoo.github.io/obliczanie-r-wnania-kwadratowego/">Demo</a>
+<a target="_blank" href="https://sevetoo.github.io/obliczanie-r-wnania-kwadratowego/">Demo</a>
+
 </div>
 
 <p align="center">
@@ -16,7 +19,6 @@
 
   <img alt="License" src="https://img.shields.io/github/license/SeveToo/multiplication-for-learning?color=56BEB8">
 </p>
-
 
 <p align="center">
   <a href="#dart-about">About</a> &#xa0; | &#xa0; 
