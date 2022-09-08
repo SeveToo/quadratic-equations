@@ -5,7 +5,7 @@
     [<img src="http://www.google.com.au/images/nav_logo7.png">](http://google.com.au/)
 &#xa0;
 
-  <!-- <a href="https://tabliczkamnożeniadonauki.netlify.app">Demo</a> -->
+   <a href="https://sevetoo.github.io/obliczanie-r-wnania-kwadratowego/">Demo</a> 
 </div>
 
 <p align="center">
