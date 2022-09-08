@@ -1,6 +1,8 @@
 <div align="center" id="top"> 
 <h1 align="center">Obliczanie równania kwadratowego</h1>
-  <img src="./preview.png" alt="Tabliczka Mnożenia Do Nauki" />
+  <a href="https://sevetoo.github.io/obliczanie-r-wnania-kwadratowego/">
+    <img src="./preview.png" alt="Tabliczka Mnożenia Do Nauki" />
+  </a>
 
 &#xa0;
 
