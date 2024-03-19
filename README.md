@@ -1,23 +1,23 @@
 <div align="center" id="top"> 
 <h1 align="center">Obliczanie równania kwadratowego</h1>
-  <a target="_blank" href="https://sevetoo.github.io/obliczanie-r-wnania-kwadratowego/">
+  <a target="_blank" href="https://sevetoo.github.io/quadratic-equations/">
   <img src="./preview.png" alt="Tabliczka Mnożenia Do Nauki" />
   </a>
 
 &#xa0;
 
-<a target="_blank" href="https://sevetoo.github.io/obliczanie-r-wnania-kwadratowego/">Demo</a>
+<a target="_blank" href="https://sevetoo.github.io/quadratic-equations/">Demo</a>
 
 </div>
 
 <p align="center">
-  <img alt="Github top language" src="https://img.shields.io/github/languages/top/SeveToo/multiplication-for-learning?color=56BEB8">
+  <img alt="Github top language" src="https://img.shields.io/github/languages/top/SeveToo/quadratic-equations?color=56BEB8">
 
-  <img alt="Github language count" src="https://img.shields.io/github/languages/count/SeveToo/multiplication-for-learning?color=56BEB8">
+  <img alt="Github language count" src="https://img.shields.io/github/languages/count/SeveToo/quadratic-equations?color=56BEB8">
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/SeveToo/multiplication-for-learning?color=56BEB8">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/SeveToo/quadratic-equations?color=56BEB8">
 
-  <img alt="License" src="https://img.shields.io/github/license/SeveToo/multiplication-for-learning?color=56BEB8">
+  <img alt="License" src="https://img.shields.io/github/license/SeveToo/quadratic-equations?color=56BEB8">
 </p>
 
 <p align="center">
