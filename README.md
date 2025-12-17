@@ -1,7 +1,7 @@
 <div align="center" id="top"> 
 <h1 align="center">Obliczanie równania kwadratowego</h1>
   <a target="_blank" href="https://sevetoo.github.io/quadratic-equations/">
-  <img src="./preview.png" alt="Tabliczka Mnożenia Do Nauki" />
+  <img src="./preview.png" alt="Obliczanie równania kwadratowego" />
   </a>
 
 &#xa0;
